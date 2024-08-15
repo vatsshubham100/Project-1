@@ -10,13 +10,9 @@ This project is a modern, responsive registration form built using HTML and CSS.
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
-- [Contributing](#contributing)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [Installation](#-installation)
 
 ## ✨ Features
 
